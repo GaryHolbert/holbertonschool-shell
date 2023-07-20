@@ -1,1 +1,1 @@
-2-bring_me_home script that changes the working directory to the user’s home directory.
+3-listfiles creo scripts muestra contenido directorio actual en un formato largo.
