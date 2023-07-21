@@ -1,1 +1,1 @@
-5-listfilesdigitonly creo scripts muestra formato largo ID de usuario grupo mostrados numéricamente archivos ocultos
+6-firstdirectory creo scripts que crea un directorio
