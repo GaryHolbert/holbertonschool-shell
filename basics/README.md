@@ -1,1 +1,1 @@
-4-listmorefiles creo scripts muestra contenido directorio actual inlucido los archivos ocultos.
+5-listfilesdigitonly creo scripts muestra formato largo ID de usuario grupo mostrados numéricamente archivos ocultos
