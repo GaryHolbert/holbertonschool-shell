@@ -1,1 +1,1 @@
-3-listfiles creo scripts muestra contenido directorio actual en un formato largo.
+4-listmorefiles creo scripts muestra contenido directorio actual inlucido los archivos ocultos.
